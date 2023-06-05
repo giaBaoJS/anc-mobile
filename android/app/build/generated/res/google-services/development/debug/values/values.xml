@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">10081618096</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-p3S-9RgmDj8sPm4YXpaCuRA-V77XUQE</string>
+    <string name="google_app_id" translatable="false">1:10081618096:android:18e26f7a81837ab668d375</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-p3S-9RgmDj8sPm4YXpaCuRA-V77XUQE</string>
+    <string name="google_storage_bucket" translatable="false">ceolead-anc-v2.appspot.com</string>
+    <string name="project_id" translatable="false">ceolead-anc-v2</string>
+</resources>

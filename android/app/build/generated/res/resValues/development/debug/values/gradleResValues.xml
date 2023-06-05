@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <!-- Value from build type: debug -->
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Value from product flavor: development -->
+    <string name="app_name" translatable="false">ANC.dev</string>
+    <!-- Value from default config. -->
+    <string name="API_BASE" translatable="false">"https://dev.anc.ceo:8000/api/v1/"</string>
+    <!-- Value from default config. -->
+    <string name="APP_ID" translatable="false">"com.ceolead.anc.development"</string>
+    <!-- Value from default config. -->
+    <string name="APP_NAME" translatable="false">"ANC.dev"</string>
+    <!-- Value from default config. -->
+    <string name="IS_PRODUCTION" translatable="false">"false"</string>
+    <!-- Value from default config. -->
+    <string name="VERSION_CODE" translatable="false">"1"</string>
+    <!-- Value from default config. -->
+    <string name="VERSION_NAME" translatable="false">"1.0.0"</string>
+    <!-- Value from default config. -->
+    <string name="WEB_CLI_KEY" translatable="false">"10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com"</string>
+    <!-- Value from default config. -->
+    <string name="build_config_package" translatable="false">com.anc</string>
+
+</resources>

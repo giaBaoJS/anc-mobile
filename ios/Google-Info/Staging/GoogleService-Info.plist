@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>10081618096-r04dsqm3k4nfjf5q1svkv1e2mumlmjhf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.10081618096-r04dsqm3k4nfjf5q1svkv1e2mumlmjhf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKdH_WprN0xWg9pihm6aWt_RE7ao42Xc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>10081618096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ceolead.anc.staging</string>
+	<key>PROJECT_ID</key>
+	<string>ceolead-anc-v2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ceolead-anc-v2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:10081618096:ios:ffa5857af939271f68d375</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+module Pods_anc_ancTests {
+  umbrella header "Pods-anc-ancTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

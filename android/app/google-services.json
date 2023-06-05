@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "10081618096",
+    "project_id": "ceolead-anc-v2",
+    "storage_bucket": "ceolead-anc-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10081618096:android:18e26f7a81837ab668d375",
+        "android_client_info": {
+          "package_name": "com.ceolead.anc.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10081618096-4ulun5v6e4dkd3f6dhpnopp6rurst3lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceolead.anc.development",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-p3S-9RgmDj8sPm4YXpaCuRA-V77XUQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10081618096-088lcdvmo4roakv8n7kqg3v0t5kueq3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ceolead.anc.production"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10081618096:android:6411e977e4300f5a68d375",
+        "android_client_info": {
+          "package_name": "com.ceolead.anc.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10081618096-gaolekl6q1q993hto3hmrv2060caqvdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceolead.anc.production",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-p3S-9RgmDj8sPm4YXpaCuRA-V77XUQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10081618096-088lcdvmo4roakv8n7kqg3v0t5kueq3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ceolead.anc.production"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10081618096:android:f7a9f8f45a2a626b68d375",
+        "android_client_info": {
+          "package_name": "com.ceolead.anc.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10081618096-b013f424rg216t4o2heutf38hc5dka8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceolead.anc.staging",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-p3S-9RgmDj8sPm4YXpaCuRA-V77XUQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10081618096-dc00g3sp0cknpm48dgd32vbiuiqdh1vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10081618096-088lcdvmo4roakv8n7kqg3v0t5kueq3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ceolead.anc.production"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_banner3.jpg.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_banner3.jpg"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_iconuser.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_iconuser.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_src_assets_images_iconuser.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/src_assets_images_iconuser.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_google.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_google.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_about.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_about.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_src_assets_images_iconapple.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/src_assets_images_iconapple.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_icongoogle.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_icongoogle.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_iconapple.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_iconapple.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_banner2.jpg.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_banner2.jpg"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable_background_splash.xml.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable/background_splash.xml"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_src_assets_images_icongoogle.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/src_assets_images_icongoogle.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_banner1.jpg.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_banner1.jpg"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_src_assets_images_iconuser.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/src_assets_images_iconuser.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_src_assets_images_icongoogle.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/src_assets_images_icongoogle.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_src_assets_images_google.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/src_assets_images_google.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_src_assets_images_about.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/src_assets_images_about.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_src_assets_images_iconapple.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/src_assets_images_iconapple.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_src_assets_images_about.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/src_assets_images_about.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-xhdpi_src_assets_images_google.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-xhdpi/src_assets_images_google.png"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/drawable-mdpi_src_assets_images_banner4.jpg.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/drawable-mdpi/src_assets_images_banner4.jpg"
+    },
+    {
+        "merged": "/Users/baonguyen/Documents/anc_mobile/android/app/build/intermediates/res/merged/development/debug/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "/Users/baonguyen/Documents/anc_mobile/android/app/src/main/res/mipmap-hdpi/bootsplash_logo.png"
+    }
+]

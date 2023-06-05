@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ceolead.anc.development",
+  "variantName": "developmentDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionName": "1.0.0",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+module Pods_anc {
+  umbrella header "Pods-anc-umbrella.h"
+
+  export *
+  module * { export * }
+}

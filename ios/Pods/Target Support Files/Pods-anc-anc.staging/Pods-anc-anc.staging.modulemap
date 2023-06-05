@@ -1,0 +1,6 @@
+module Pods_anc_anc_staging {
+  umbrella header "Pods-anc-anc.staging-umbrella.h"
+
+  export *
+  module * { export * }
+}

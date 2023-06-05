@@ -1,0 +1,18 @@
+com/anc/BuildConfig.java
+ com.anc.BuildConfig
+com/anc/ReactNativeFlipper.java
+ com.anc.ReactNativeFlipper
+ com.anc.ReactNativeFlipper$1
+ com.anc.ReactNativeFlipper$2
+ com.anc.ReactNativeFlipper$2$1
+react/modules/OpenSettingModule.java
+ react.modules.OpenSettingModule
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/anc/MainActivity.java
+ com.anc.MainActivity
+com/anc/MainApplication.java
+ com.anc.MainApplication
+ com.anc.MainApplication$1
+react/modules/AncModulePackages.java
+ react.modules.AncModulePackages
